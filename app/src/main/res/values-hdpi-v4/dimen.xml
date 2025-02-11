@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="loading_width">220.0dp</dimen>
+    <dimen name="loading_height">128.0dp</dimen>
+    <dimen name="loading_position_x">238.0dp</dimen>
+    <dimen name="loading_position_y">615.0dp</dimen>
+</resources>

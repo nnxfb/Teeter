@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="a">
+        <item>24</item>
+        <item>666</item>
+        <item>-32</item>
+    </integer-array>
+    <integer-array name="b">
+        <item>-256</item>
+        <item>366</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="c">
+        <item>-266</item>
+        <item>82</item>
+        <item>-56</item>
+    </integer-array>
+    <integer-array name="d">
+        <item>308</item>
+        <item>127</item>
+        <item>-22</item>
+    </integer-array>
+    <integer-array name="e">
+        <item>48</item>
+        <item>-122</item>
+        <item>24</item>
+    </integer-array>
+    <integer-array name="f">
+        <item>431</item>
+        <item>580</item>
+        <item>70</item>
+    </integer-array>
+    <integer-array name="g">
+        <item>868</item>
+        <item>646</item>
+        <item>-10</item>
+    </integer-array>
+    <integer-array name="h">
+        <item>1035</item>
+        <item>558</item>
+        <item>24</item>
+    </integer-array>
+    <integer-array name="i">
+        <item>820</item>
+        <item>-21</item>
+        <item>57</item>
+    </integer-array>
+    <integer-array name="j">
+        <item>1056</item>
+        <item>-76</item>
+        <item>11</item>
+    </integer-array>
+    <integer-array name="k">
+        <item>658</item>
+        <item>329</item>
+        <item>46</item>
+    </integer-array>
+</resources>

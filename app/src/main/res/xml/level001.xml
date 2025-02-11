@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+    <begin
+        x="96"
+        y="467"/>
+    <end
+        x="865"
+        y="467"/>
+    <walls count="3">
+        <wall
+            left="235"
+            top="147"
+            right="242"
+            bottom="537"/>
+        <wall
+            left="481"
+            top="7"
+            right="488"
+            bottom="396"/>
+        <wall
+            left="726"
+            top="147"
+            right="734"
+            bottom="537"/>
+    </walls>
+    <holes count="5">
+        <hole
+            x="156"
+            y="120"/>
+        <hole
+            x="324"
+            y="120"/>
+        <hole
+            x="324"
+            y="477"/>
+        <hole
+            x="564"
+            y="369"/>
+        <hole
+            x="877"
+            y="68"/>
+    </holes>
+</level>

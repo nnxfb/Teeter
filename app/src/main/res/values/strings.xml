@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="htc_private_app" translatable="false">Teeter</string>
+    <string name="ap_version_id" translatable="false">1.00.0001</string>
+    <string name="str_msg_continue">Do you want to continue playing?</string>
+    <string name="str_msg_quit">Do you want to quit?</string>
+    <string name="str_btn_restart">Restart</string>
+    <string name="str_btn_resume">Resume</string>
+    <string name="str_btn_quit">Quit</string>
+    <string name="str_level_caption">Level %d completed</string>
+    <string name="str_level_time">Level time</string>
+    <string name="str_level_attempt">Level attempts</string>
+    <string name="str_total_time">Total time</string>
+    <string name="str_total_attempt">Total attempts</string>
+    <string name="str_rank_caption">High scores</string>
+    <string name="str_no_sensor">Teeter requires a G-Sensor (accelerometer) on the phone to play. Your phone does not have this feature. Teeter will now close.</string>
+    <string name="ap_prot_err">This application can only be used on HTC devices.</string>
+    <string name="str_btn_yes">YES</string>
+    <string name="str_btn_no">NO</string>
+    <string name="str_btn_jump">JUMP</string>
+</resources>
